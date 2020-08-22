@@ -1,0 +1,9 @@
+C:\Users\Егор\source\repos\comport\comport\obj\Debug\comport.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\comport\comport\obj\Debug\comport.Form1.resources
+C:\Users\Егор\source\repos\comport\comport\obj\Debug\comport.Properties.Resources.resources
+C:\Users\Егор\source\repos\comport\comport\obj\Debug\comport.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\comport\comport\bin\Debug\comport.exe.config
+C:\Users\Егор\source\repos\comport\comport\bin\Debug\comport.exe
+C:\Users\Егор\source\repos\comport\comport\bin\Debug\comport.pdb
+C:\Users\Егор\source\repos\comport\comport\obj\Debug\comport.exe
+C:\Users\Егор\source\repos\comport\comport\obj\Debug\comport.pdb

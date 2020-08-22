@@ -1,0 +1,9 @@
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\bin\Debug\bmpTogrb.exe.config
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\bin\Debug\bmpTogrb.exe
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\bin\Debug\bmpTogrb.pdb
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\obj\Debug\bmpTogrb.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\obj\Debug\bmpTogrb.Form1.resources
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\obj\Debug\bmpTogrb.Properties.Resources.resources
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\obj\Debug\bmpTogrb.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\obj\Debug\bmpTogrb.exe
+C:\Users\Егор\source\repos\bmpTogrb\bmpTogrb\obj\Debug\bmpTogrb.pdb
