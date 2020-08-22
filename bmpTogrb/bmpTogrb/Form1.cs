@@ -17,7 +17,7 @@ namespace bmpTogrb
         public Form1()
         {
             InitializeComponent();
-            serialPort1.Open();
+            
         }
        
 
@@ -41,7 +41,7 @@ namespace bmpTogrb
             try
             {
                 // Retrieve the image.
-                image1 = new Bitmap(@"C:\img\bmo.bmp", true);
+                image1 = new Bitmap(@"C:\img\j.bmp", true);
 
                 int x, y;
 
@@ -68,28 +68,11 @@ namespace bmpTogrb
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            for (int i = 0; i < 240; i++)
-            {
-                for (int j = 0; j < 135; j++)
-                {
-
-                    serialPort1.WriteLine(Convert.ToString(i));
-
-                    serialPort1.WriteLine(Convert.ToString(j));
-
-
-                    serialPort1.WriteLine(pic[(i*135)+j]);
-                }
-            }
-            //serialPort1.WriteLine(Convert.ToString(message[0]));
-            serialPort1.Close();
-        }
+        
 
         private void button3_Click(object sender, EventArgs e)
         {
-            string writePath = @"C:\img\bmo.txt";
+            string writePath = @"C:\img\jtxt";
 
             
             try
